@@ -1,3 +1,4 @@
 BigFile filter=lfs diff=lfs merge=lfs -text
 BigFile2 filter=lfs diff=lfs merge=lfs -text
 linux-5.4.188.tar.xz filter=lfs diff=lfs merge=lfs -text
+linux-5.4.188.tar.xz2 filter=lfs diff=lfs merge=lfs -text
